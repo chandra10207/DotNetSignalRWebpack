@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PgzUGUsW6KT8hHX3EpUHjWPuo01ymIA/JtGVeEmzniyolMSyfvuACmbadZbpjqjfPUEsubkjSdfpsFJ5IlMPSA==",
+  "success": true,
+  "projectFilePath": "/Users/chandra.pandey/dotnet/SignalRWebpack/SignalRWebpack.csproj",
+  "expectedPackageFiles": [
+    "/Users/chandra.pandey/.nuget/packages/microsoft.typescript.msbuild/4.9.4/microsoft.typescript.msbuild.4.9.4.nupkg.sha512"
+  ],
+  "logs": []
+}
